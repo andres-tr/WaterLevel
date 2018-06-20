@@ -4,8 +4,8 @@
 ;Layer height: 0.2
 ;Generated with Cura_SteamEngine 3.3.1
 M190 S130
-M104 S230
-M109 S230
+M104 S250
+M109 S250
 M82 ;absolute extrusion mode
 G21 ;metric values
 G90 ;absolute positioning
@@ -59335,6 +59335,6 @@ M104 S0
 ;SETTING_3  ["[general]\\nversion = 3\\nname = Fine #2\\ndefinition = fdmprinter
 ;SETTING_3 \\n\\n[metadata]\\nposition = 0\\ntype = quality_changes\\nsetting_ve
 ;SETTING_3 rsion = 4\\nquality_type = normal\\n\\n[values]\\ninfill_pattern = cr
-;SETTING_3 oss_3d\\ninfill_sparse_density = 30\\nretraction_hop_enabled = True\\
-;SETTING_3 nspeed_print = 20\\nsupport_join_distance = 2.5\\nsupport_pattern = l
-;SETTING_3 ines\\n\\n"]}
+;SETTING_3 oss_3d\\ninfill_sparse_density = 30\\nmaterial_print_temperature = 25
+;SETTING_3 0\\nretraction_hop_enabled = True\\nspeed_print = 20\\nsupport_join_d
+;SETTING_3 istance = 2.5\\nsupport_pattern = lines\\n\\n"]}
